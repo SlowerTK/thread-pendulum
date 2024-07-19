@@ -1,5 +1,0 @@
-﻿  2D physical engine.cpp
-  Window123.cpp
-SDL2main.lib(SDL_windows_main.obj) : error LNK2001: неразрешенный внешний символ __imp_CommandLineToArgvW.
-SDL2main.lib(SDL_windows_main.obj) : error LNK2001: неразрешенный внешний символ SDL_main.
-D:\[2] Кодинг приколы\C++\2D physical engine\x64\Release\2D physical engine.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
